@@ -1,5 +1,9 @@
 # Road Accident Detection & Alert System
 
+
+https://github.com/user-attachments/assets/9b35ad8f-5fdb-4adf-a909-fe2df242bc17
+
+
 ## Overview
 
 **The Road Accident Detection & Alert System is a project designed to detect accidents on roads, trigger alerts, capture accident details, and enable emergency response. It utilizes computer vision, audio alerts, and communication technologies to improve response times and assist in emergency situations.**
